@@ -1,7 +1,4 @@
-from cgitb import text
 import sys
-from tkinter import Button
-from turtle import window_width
 import pygame 
 import random 
 from pygame import mixer
