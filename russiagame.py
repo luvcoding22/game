@@ -66,10 +66,6 @@ def draw_text(text, font, text_col, x, y):
 
 
 
-#bg
-bg = pygame.image.load("bg.png")
-
-
 #sounds
 smallgunshot = mixer.Sound("smallshot.wav")
 mixer.Sound.set_volume(smallgunshot, .8)
